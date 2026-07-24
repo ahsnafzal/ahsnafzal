@@ -23,7 +23,7 @@
 
 ```typescript
 const ahsan = {
-  title: "Junior Python / Django Developer",
+  title: "Python / Django Developer",
   stack: [
     "Python", "Django", "Django REST Framework",
     "React.js", "Tailwind CSS",
