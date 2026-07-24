@@ -37,7 +37,7 @@ const ahsan = {
   certifications: ["Python for Beginners — Alison",
   "Pandas — Kaggle"],
   status: "Building production REST APIs, exploring AI/LLM engineering",
-  openTo: "Junior Python/Django Developer roles (remote & relocation)"
+  openTo: "Python/Django Developer roles (remote & relocation)"
 };
 ```
 
