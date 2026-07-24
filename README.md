@@ -49,12 +49,7 @@ const ahsan = {
 
 Online doctor consultation and booking platform with video call consultations, an integrated payment system, and permanent medical record storage for patients, integrated AI to summarize medical records and to recommend a doctor.
 
-<div align="center">
 
-[![Medtag Backend](https://github-readme-stats.vercel.app/api/pin/?username=ahsnafzal&repo=medtag-backend&theme=nord&border_color=7dd3fc&text_color=ffffff&bg_color=0d1117)](https://github.com/ahsnafzal/medtag-backend)
-[![Medtag Frontend](https://github-readme-stats.vercel.app/api/pin/?username=ahsnafzal&repo=medtag-frontend&theme=nord&border_color=7dd3fc&text_color=ffffff&bg_color=0d1117)](https://github.com/ahsnafzal/medtag-frontend)
-
-</div>
 
 | Layer | Technology |
 |---|---|
@@ -76,12 +71,7 @@ Online doctor consultation and booking platform with video call consultations, a
 
 An Amazon-inspired full-stack e-commerce application built with Django REST Framework and React.js.
 
-<div align="center">
 
-[![E-Commerce Backend](https://github-readme-stats.vercel.app/api/pin/?username=ahsnafzal&repo=Full-Stack-E-Commerce-Web-App-Django-REST-Framework-React.js-Amazon-Clone&theme=nord&border_color=7dd3fc&text_color=ffffff&bg_color=0d1117)](https://github.com/ahsnafzal/Full-Stack-E-Commerce-Web-App-Django-REST-Framework-React.js-Amazon-Clone)
-[![E-Commerce Frontend](https://github-readme-stats.vercel.app/api/pin/?username=ahsnafzal&repo=Full-Stack-E-Commerce-Web-App-Django-REST-Framework-React.js-Amazon-Clone-FRONTEND-&theme=nord&border_color=7dd3fc&text_color=ffffff&bg_color=0d1117)](https://github.com/ahsnafzal/Full-Stack-E-Commerce-Web-App-Django-REST-Framework-React.js-Amazon-Clone-FRONTEND-)
-
-</div>
 
 | Layer | Technology |
 |---|---|
