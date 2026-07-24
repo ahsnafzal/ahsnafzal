@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7dd3fc,100:0ea5e9&height=200&section=header&text=Ahsan%20Afzal&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Junior%20Python%20/%20Django%20Developer&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7dd3fc,100:0ea5e9&height=200&section=header&text=Ahsan%20Afzal&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Python%20/%20Django%20Developer&descAlignY=55&descSize=18" width="100%"/>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=7DD3FC&center=true&vCenter=true&width=600&lines=Building+REST+APIs+with+Django+%26+DRF;Full-Stack+Developer+%7C+React.js+%2B+Django;Exploring+AI+%2F+GenAI+%2F+LLMs;Open+to+Junior+Python%2FDjango+Roles" alt="Typing SVG" />
@@ -47,7 +47,7 @@ const ahsan = {
 
 ### 🏥 Medtag
 
-Online doctor consultation and booking platform with video call consultations, an integrated payment system, and permanent medical record storage for patients.
+Online doctor consultation and booking platform with video call consultations, an integrated payment system, and permanent medical record storage for patients, integrated AI to summarize medical records and to recommend a doctor.
 
 <div align="center">
 
