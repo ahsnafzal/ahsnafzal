@@ -34,7 +34,8 @@ const ahsan = {
     "Medtag — Online doctor consultation platform",
     "Amazon Clone — Full-stack e-commerce app"
   ],
-  certifications: [],
+  certifications: ["Python for Beginners — Alison",
+  "Pandas — Kaggle"],
   status: "Building production REST APIs, exploring AI/LLM engineering",
   openTo: "Junior Python/Django Developer roles (remote & relocation)"
 };
