@@ -27,7 +27,7 @@ const ahsan = {
   stack: [
     "Python", "Django", "Django REST Framework",
     "React.js", "Tailwind CSS",
-    "PostgreSQL", "SQLite",
+    "PostgreSQL", "SQLite", "Knack",
     "Git", "GitHub", "REST APIs", "AI"
   ],
   launchedProjects: [
@@ -77,7 +77,7 @@ An Amazon-inspired full-stack e-commerce application built with Django REST Fram
 |---|---|
 | Frontend | React.js, Tailwind CSS |
 | Backend | Django, Django REST Framework |
-| Database | SQLite |
+| Database | SQLite | Knack
 | Features | Product Catalog, Cart, Checkout Flow |
 
 <div align="center">
@@ -105,7 +105,7 @@ An Amazon-inspired full-stack e-commerce application built with Django REST Fram
 
 **AI / Database**
 
-<img src="https://skillicons.dev/icons?i=postgres,sqlite" />
+<img src="https://skillicons.dev/icons?i=postgres,sqlite" />&nbsp;![Knack](https://img.shields.io/badge/Knack-7DD3FC?style=for-the-badge&logo=knack&logoColor=black)
 
 *Also actively exploring: AI / GenAI / LLM engineering*
 
